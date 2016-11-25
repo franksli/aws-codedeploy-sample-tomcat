@@ -36,7 +36,7 @@
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
-        <a class="navbar-brand" href="#">Bespoke Suits for Cats</a>
+        <a class="navbar-brand" href="#">Bespoke Suits</a>
       </div>
       <div id="navbar" class="navbar-collapse collapse">
         <ul class="nav navbar-nav">
@@ -82,7 +82,7 @@
       </div>
     <% } %>
     <div class="jumbotron">
-      <h1>Bespoke Suits for Dogs</h1>
+      <h1>Bespoke Suits for Cats</h1>
       <p><i>Why can't your canine companion be classy too?</i></p>
     </div>
     <div class="page-header">
